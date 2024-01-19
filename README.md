@@ -16,6 +16,9 @@
 -------------------------------------------
 ### Technologies que j'utilise ⚙️
 
+------------------------------------------
+### Langues que je connais 🌏
+
 <!--
 **Chevalier-du-web/Chevalier-du-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
