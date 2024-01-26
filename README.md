@@ -2,6 +2,14 @@
 Développeur full stack mobile et web passionné, je suis un professionnel et chercheur engagé dans la création d'applications innovantes et de sites web performants. Fort de ma passion pour la technologie, je m'efforce d'apporter des solutions créatives et efficaces à des projets. Ma détermination et mon expertise me permettent de relever avec succès les défis liés au développement d'applications et de sites web, tout en restant constamment à l'affût des dernières tendances et technologies. Je suis un ambitieux qui cherche à laisser une empreinte positive à travers mes réalisations dans le domaine du développement.
 
 
+-------------------------------------------
+### 👨‍💻 ***Consultez mon site Web personnel à https://Chevalier-du-web.github.io/***
+
+### 📫 **Vous pouvez me joindre à brandonsangon5@gmail.com**
+
+### 📜 **Mon CV mis à jour est disponible ici**
+
+----------------------------------------------
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Brandon sangon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sangon albelda brandon) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Chevalier du web) 
 
