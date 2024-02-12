@@ -1,4 +1,4 @@
-### 💫 Hi there, i am Sangon Brandon 👋
+### 💫 Hi there, I am Sangon Brandon 👋
 
 Passionate full stack mobile and web developer, I am a professional and researcher engaged in the creation of innovative applications and high-performance websites. With my passion for technology, I strive to provide creative and effective solutions to projects. My determination and expertise allow me to successfully meet the challenges related to the development of applications and websites, while constantly remaining on the lookout for the latest trends and technologies. I am an ambitious person who seeks to leave a positive imprint through my achievements in the field of development.
 
